@@ -1,0 +1,14 @@
+{
+    "Minecraft": {
+        "type": "launch",
+        "action": "C:/Users/vishn/Downloads/MinecraftInstaller.exe"
+    },
+    "Skibidi": {
+        "type": "type",
+        "action": "Skibidi"
+    },
+    "Ganesh": {
+        "type": "type",
+        "action": "Ganesh"
+    }
+}
